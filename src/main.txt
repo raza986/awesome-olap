@@ -1,2 +1,3 @@
 🧊 A curated list of OLAP databases, data lake tools, columnar engines, and analy
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
