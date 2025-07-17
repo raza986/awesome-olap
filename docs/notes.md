@@ -11,3 +11,4 @@ Notes and usage details for awesome-olap.
 - clarify the setup steps
 - fix a small wording issue
 - add a note about the defaults
+- link the usage section
